@@ -51,14 +51,12 @@ Type your answer below the question.
 
 > How much are 2 + 2?
 
-Your answer here.
 4
 
 > What is the square root of $\pi$?
 
 Your answer here.
 You need a code chunk to answer this question: create it.
-1.772454
 
 ```{r}
 sqrt(pi)
